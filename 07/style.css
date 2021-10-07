@@ -72,6 +72,7 @@ form .btn-login {
 form{
   overflow: hidden;
   animation: fade 0.2s;
+  z-index:1000;
 }
 
 form .input-block:nth-child(1){
