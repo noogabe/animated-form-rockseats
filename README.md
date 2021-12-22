@@ -10,7 +10,7 @@
 - [X] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
 - [X] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). _Detalhes_: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
 
-<img align="center" alt="formulario-animado-gif" width=70% src="https://github.com/GabrieleAlmeida/formulario-animado-rockseats/blob/main/img/SCCCWGCA9BCYPVIQ.gif">
+<img align="center" alt="formulario-animado-gif" width="100%" src="https://github.com/GabrieleAlmeida/formulario-animado-rockseats/blob/main/img/SCCCWGCA9BCYPVIQ.gif">
 
 ## Animation
 
